@@ -1,0 +1,48 @@
+{
+    "F":{
+        "Dora":{
+                "firstname":"Dora",
+                "height":180,
+                "email":"Dora@gmail.com",
+                "city":{
+                    "通訊地址":"台北",
+                    "戶籍地址":"桃園"
+                },
+                "phone":{
+                    "市話":"02-29881055",
+                    "行動電話":"0933-852177"
+                },
+                "cars":["BMV","Nissan GT-R","Audi"]
+            },
+        "Mary":{
+            "firstname":"Mary",
+            "height":180,
+            "email":"Mary@gmail.com",
+            "city":{
+                "通訊地址":"台北",
+                "戶籍地址":"桃園"
+            },
+            "phone":{
+                "市話":"02-29881055",
+                "行動電話":"0933-852177"
+            },
+            "cars":["BMV","Nissan GT-R","Audi"]
+        }
+    },
+    "M":{
+        "Kevin":{
+            "firstname":"Kevin",
+            "height":180,
+            "email":"Kevin@gmail.com",
+            "city":{
+                "通訊地址":"台北",
+                "戶籍地址":"桃園"
+            },
+            "phone":{
+                "市話":"02-29881055",
+                "行動電話":"0933-852177"
+            },
+            "cars":["BMV","Nissan GT-R","Audi"]
+        }
+    }
+}
