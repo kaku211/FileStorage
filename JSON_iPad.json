@@ -1,0 +1,18 @@
+[
+    {"id":"A001", "color":"太空灰色", "storage":"64GB", "network":"Wi-Fi", "price":"18900", "picture":"ipad_spacegray.png"},
+    {"id":"A002", "color":"太空灰色", "storage":"64GB", "network":"Cellular", "price":"23200", "picture":"ipad_spacegray.png"},
+    {"id":"A003", "color":"太空灰色", "storage":"256GB", "network":"Wi-Fi", "price":"23900", "picture":"ipad_spacegray.png"},
+    {"id":"A004", "color":"太空灰色", "storage":"256GB", "network":"Cellular", "price":"28200", "picture":"ipad_spacegray.png"},
+    {"id":"A005", "color":"銀色", "storage":"64GB", "network":"Wi-Fi", "price":"18900", "picture":"ipad_silver.png"},
+    {"id":"A006", "color":"銀色", "storage":"64GB", "network":"Cellular", "price":"23200", "picture":"ipad_silver.png"},
+    {"id":"A007", "color":"銀色", "storage":"256GB", "network":"Wi-Fi", "price":"23900", "picture":"ipad_silver.png"},
+    {"id":"A008", "color":"銀色", "storage":"256GB", "network":"Cellular", "price":"28200", "picture":"ipad_silver.png"},
+    {"id":"A009", "color":"玫瑰金色", "storage":"64GB", "network":"Wi-Fi", "price":"18900", "picture":"ipad_gold.png"},
+    {"id":"A010", "color":"玫瑰金色", "storage":"64GB", "network":"Cellular", "price":"23200", "picture":"ipad_gold.png"},
+    {"id":"A011", "color":"玫瑰金色", "storage":"256GB", "network":"Wi-Fi", "price":"23900", "picture":"ipad_gold.png"},
+    {"id":"A012", "color":"玫瑰金色", "storage":"256GB", "network":"Cellular", "price":"28200", "picture":"ipad_gold.png"},
+    {"id":"A013", "color":"綠色", "storage":"64GB", "network":"Wi-Fi", "price":"18900", "picture":"ipad-green.png"},
+    {"id":"A014", "color":"綠色", "storage":"64GB", "network":"Cellular", "price":"23200", "picture":"ipad-green.png"},
+    {"id":"A015", "color":"綠色", "storage":"256GB", "network":"Wi-Fi", "price":"23900", "picture":"ipad-green.png"},
+    {"id":"A016", "color":"綠色", "storage":"256GB", "network":"Cellular", "price":"28200", "picture":"ipad-green.png"}
+]
